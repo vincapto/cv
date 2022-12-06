@@ -10,6 +10,12 @@ body {
   justify-content: center;
 }
 
+p {
+  margin: 0;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
 h1 {
   position: relative;
   margin: 20px 0;
@@ -39,6 +45,12 @@ h1:after {
   position: absolute;
   left: 0px;
   bottom: 0px;
+}
+
+.front {
+  font-size: 25px;
+  position: relative;
+  margin: 20px 0;
 }
 
 .h-2 {
