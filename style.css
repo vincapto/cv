@@ -113,7 +113,7 @@ h1:after {
   flex: 1;
   background: #24263c;
   color: #f4f2f3;
-  padding: 50px 25px;
+  padding: 25px 25px;
 }
 .paper .main-data .main-data-item {
   margin: 10px 0;
@@ -135,7 +135,7 @@ h1:after {
   flex: 2;
   background: #f4f2f3;
   color: #424953;
-  padding: 50px 25px;
+  padding: 5px 25px;
 }
 .paper .additional-data a {
   color: #b18324;
